@@ -1,6 +1,6 @@
 <p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
 
-<h1 align="center">Microsoft  Activation  Scripts (MAS) HandTy</h1>
+<h1 align="center">Microsoft  Activation  Scripts (MAS) Ashera</h1>
 
 <p align="center">A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</p>
 
@@ -12,7 +12,7 @@
 
 <hr>
   
-## Powered By : HandTy
+## Powered By : Ashera
 
 [https://github.com/user-attachments/assets/afb9292f-5d8a-4d6d-8156-7325c9c405d2](https://github.com/user-attachments/assets/84070d44-ca17-491a-ada5-afe4dc62a3ae)
 
